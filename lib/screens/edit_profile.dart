@@ -104,7 +104,7 @@ class _EditProfileState extends State<EditProfile> {
               buildTextField('Full Name', 'Taufik', false),
               buildTextField('E-mail', 'test@gmail.com', false),
               buildTextField('Password', '************', true),
-              buildTextField('Location', 'TLV, Israel', false),
+              buildTextField('Location', 'Jauh', false),
               const SizedBox(
                 height: 35,
               ),
